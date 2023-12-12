@@ -17,19 +17,23 @@
 
 ---
 
-### Category Name 2
+### Tableau Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+- [Project 1: Evolving HIV Epidemic in Africa (1990-2019)](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
+### Data Playgroud
+
+- [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
+- [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
+- [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
+- [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
+- [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
+
+
+
+---
+
 <!-- Remove above link if you don't want to attibute -->
