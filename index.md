@@ -1,8 +1,8 @@
-<span style="color:darkgray;">## Portfolio</span>
+<h1 style="color:darkgray;">Portfolio</h1>
 
 ---
 
-<span style="color:darkgray;">### Presentations</span>
+<h2 style="color:darkgray;">Presentations</h2>
 
 [Car Insurance Fraud Detecion (collaboration)](pdf/YG Group Project Car Fraud Detection.pdf)
 <img src="images/car_fraud_project.jpg?raw=true"/>
