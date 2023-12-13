@@ -1,8 +1,8 @@
-### Portfolio
+## Portfolio
 
 ---
 
-## Presentations
+### Presentations
 <a href ="pdf/YG Group Project Car Fraud Detection.pdf">
 [Car Insurance Fraud Detecion (collaboration)](pdf/YG Group Project Car Fraud Detection.pdf)
 </a>
