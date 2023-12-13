@@ -3,7 +3,8 @@
 ---
 
 ### Presentations
-[Car Insurance Fraud Detecion (collaboration)](pdf/YG Group Project Car Fraud Detection.pdf)
+<a href="pdf/YG Group Project Car Fraud Detection.pdf" style="color: teal; font-size: 16px;">Car Insurance Fraud Detection (collaboration)</a>
+
 <br><br>
 <img src="images/car_fraud_project.jpg?raw=true"/>
 
