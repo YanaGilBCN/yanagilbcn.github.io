@@ -8,8 +8,8 @@
 <img src="images/car_fraud_project.jpg?raw=true"/>
 
 ---
-[Evolving HIV Epidemic in Africa](/pdf/Evolving HIV Epidemic in Africa.pdf)
-<img src="images/hiv_project.jpg?raw=true"/>
+[Evolving HIV Epidemic in Africa](pdf/Evolving HIV Epidemic in Africa.pdf)
+<img src="images/hiv_project.png?raw=true"/>
 
 ---
 [Marketing Analytics Report](pdf/YG_Marketing_Data.pdf)
