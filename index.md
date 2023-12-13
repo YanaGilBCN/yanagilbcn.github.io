@@ -5,17 +5,17 @@
 <h2 style="color:darkgray;">Presentations</h2>
 
 [Car Insurance Fraud Detecion (collaboration)](pdf/YG Group Project Car Fraud Detection.pdf)
-<br>
+<br><br>
 <img src="images/car_fraud_project.jpg?raw=true"/>
 
 ---
 [Evolving HIV Epidemic in Africa](pdf/Evolving HIV Epidemic in Africa.pdf)
-<br>
+<br><br>
 <img src="images/hiv_project.png?raw=true"/>
 
 ---
 [Marketing Analytics Report](pdf/YG_Marketing_Data.pdf)
-<br>
+<br><br>
 <img src="images/marketing_project.png?raw=true"/>
 
 ---
