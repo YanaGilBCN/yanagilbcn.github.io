@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Presentations
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Car Insurance Fraud Detecion (collaboration)](pdf/YG Group Project Car Fraud Detection.pdf)
+<img src="images/car_fraud_project.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -26,7 +26,7 @@
 
 ### Data Playgroud
 
-- [Excercise 1: AirBnB Geovizalization](pdf/airbnb-geovis-activities.pdf)
+- [AirBnB Geovizalization](pdf/airbnb-geovis-activities.pdf)
 - [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
 - [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
 - [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
