@@ -1,14 +1,12 @@
-title: Yana Gilichinskaya # your name (or website title) here
+title: <span style="color: teal!important;">Yana Gilichinskaya</span> # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Data Analyst with 10+ years of SQL and 4+ years of AWS Quicksight Dashboard building experience 
+  <b>Data Analyst</b> with 10+ years of SQL and 4+ years of AWS Quicksight Dashboard building experience 
   <br><br>
-  I started on the shaky data science path during my doctorate studies of speech perception at the City University of New York (CUNY) Graduate Center. After ploughing thru numerous statistics courses and an osmotic acquisition of MATLAB skills, I went on to applying machine learning tools, like logistic regression to the classification of voiced versus voiceless consonants in whispered speech. 
+  <a href="https://www.linkedin.com/in/yana-gilichinskaya/">View My LinkedIn Profile</a>
   <br><br>
-  Having recently fortified my skills by completing a 7-month intensive data science bootcamp at CodeOp, I am now seeking new challenges in the fields of data science and data analysis.
-  <br><br>
-  <a href="https://www.linkedin.com/in/yana-gilichinskaya/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/yana-gilichinskaya/">About Me</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
