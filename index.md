@@ -31,10 +31,10 @@
 ### Data Playgroud
 
 - [AirBnB Geovizalization](pdf/airbnb-geovis-activities.pdf)
-- [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
-- [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
-- [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
-- [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory) 
+- [Conditionals](pdf/Conditionals.pdf)
+- [Loops](pdf/Loops.pdf)
+- [Pandas](pdf/Pandas.pdf)
+- [Objects and Classes](pdf/ObjectsClasses.pdf) 
 
 
 
