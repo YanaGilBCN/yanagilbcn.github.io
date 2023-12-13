@@ -10,11 +10,12 @@
 ---
 
 <a href="pdf/Evolving HIV Epidemic in Africa.pdf" style="color: teal; font-size: 1.2em;">Evolving HIV Epidemic in Africa</a>
-<br>
+<br><br>
 <img src="images/hiv_project.png?raw=true"/>
 
 ---
-[Marketing Analytics Report](pdf/YG_Marketing_Data.pdf)
+
+<a href="pdf/YG_Marketing_Data.pdf" style="color: teal; font-size: 1.2em;">Marketing Analytics Report</a>
 <br><br>
 <img src="images/marketing_project.png?raw=true"/>
 
