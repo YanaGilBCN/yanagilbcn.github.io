@@ -4,13 +4,13 @@
 
 <h2>Presentations Snippets and Links</h2>
 <a href="pdf/YG Group Project Car Fraud Detection.pdf" style="color: teal; font-size: 1.2em;">Car Insurance Fraud Detection (collaboration)</a>
-
-<br><br>
+<br>
 <img src="images/car_fraud_project.jpg?raw=true"/>
 
 ---
-[Evolving HIV Epidemic in Africa](pdf/Evolving HIV Epidemic in Africa.pdf)
-<br><br>
+
+<a href="pdf/Evolving HIV Epidemic in Africa.pdf" style="color: teal; font-size: 1.2em;">Evolving HIV Epidemic in Africa</a>
+<br>
 <img src="images/hiv_project.png?raw=true"/>
 
 ---
