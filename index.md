@@ -2,7 +2,7 @@
 
 ---
 
-### Presentations Snippets and Links
+### Presentations
 [Car Insurance Fraud Detecion (collaboration)](pdf/YG Group Project Car Fraud Detection.pdf)
 <br><br>
 <img src="images/car_fraud_project.jpg?raw=true"/>
@@ -38,4 +38,3 @@
 
 ---
 
-<!-- Remove above link if you don't want to attibute -->
