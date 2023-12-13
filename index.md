@@ -1,8 +1,8 @@
-<h1 style="color:#016b5d;">Portfolio</h1>
+### Portfolio
 
 ---
 
-<h2 style="color:darkgray;">Presentations</h2>
+## Presentations
 <a href ="pdf/YG Group Project Car Fraud Detection.pdf">
 [Car Insurance Fraud Detecion (collaboration)](pdf/YG Group Project Car Fraud Detection.pdf)
 </a>
