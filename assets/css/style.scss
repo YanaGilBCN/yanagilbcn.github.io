@@ -1,4 +1,16 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+/* Import the main Minimal theme styles */
+@import "pages-themes/minimal";
+
+/* Add your custom styles below this line */
+
+
+/* Style links with titles in square brackets */
+#portfolio a[href^="["][href$="]"] {
+  color: teal; /* Change the color to teal */
+  font-weight: bold; /* Optionally, make the font bold */
+}
+
+/* Your additional custom styling rules go here */
