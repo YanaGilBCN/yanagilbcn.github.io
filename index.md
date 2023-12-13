@@ -32,7 +32,7 @@
 - [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
 - [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
 - [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
-- [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory)
+- [Excercise 1: Geovizalization](https://public.tableau.com/app/profile/yana.gilichinskaya/viz/YG_HIV_Tableau_Project/TheStory) 
 
 
 
