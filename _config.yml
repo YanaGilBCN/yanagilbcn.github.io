@@ -9,7 +9,6 @@ description: # your text below (remove <br> elements if you don't need line brea
   <a href="https://www.linkedin.com/in/yana-gilichinskaya/">View My LinkedIn Profile</a>
   <br>
   <a href="https://www.linkedin.com/in/yana-gilichinskaya/">About Me</a><br>
-  <span style="color:teal!important;">Hola!</span>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
