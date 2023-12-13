@@ -3,19 +3,19 @@
 ---
 
 <h2 style="color:#727272;">Presentations Snippets and Links</h2>
-<a href="pdf/YG Group Project Car Fraud Detection.pdf" style="color: teal; font-size: 1.2em;">Car Insurance Fraud Detection (collaboration)</a>
+<a href="pdf/YG Group Project Car Fraud Detection.pdf" style="color: teal; font-size: 1.5em;">Car Insurance Fraud Detection (collaboration)</a>
 <br>
 <img src="images/car_fraud_project.jpg?raw=true"/>
 
 ---
 
-<a href="pdf/Evolving HIV Epidemic in Africa.pdf" style="color: teal; font-size: 1.2em;">Evolving HIV Epidemic in Africa</a>
+<a href="pdf/Evolving HIV Epidemic in Africa.pdf" style="color: teal; font-size: 1.5em;">Evolving HIV Epidemic in Africa</a>
 <br><br>
 <img src="images/hiv_project.png?raw=true"/>
 
 ---
 
-<a href="pdf/YG_Marketing_Data.pdf" style="color: teal; font-size: 1.2em;">Marketing Analytics Report</a>
+<a href="pdf/YG_Marketing_Data.pdf" style="color: teal; font-size: 1.5em;">Marketing Analytics Report</a>
 <br><br>
 <img src="images/marketing_project.png?raw=true"/>
 
