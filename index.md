@@ -12,8 +12,8 @@
 <img src="images/hiv_project.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Marketing Analytics Report](pdf/YG_Marketing_Data.pdf)
+<img src="images/marketing_project.png?raw=true"/>
 
 ---
 
