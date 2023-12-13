@@ -1,8 +1,8 @@
-## Portfolio
+<span style="color:darkgray;">## Portfolio</span>
 
 ---
 
-### Presentations
+<span style="color:darkgray;">### Presentations</span>
 
 [Car Insurance Fraud Detecion (collaboration)](pdf/YG Group Project Car Fraud Detection.pdf)
 <img src="images/car_fraud_project.jpg?raw=true"/>
