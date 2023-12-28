@@ -32,12 +32,6 @@
 
 - [Credit Card Fraud Detection Model](pdf/Yana_Credit_Card_Fraud.pdf)
 - [AirBnB Geovizalization](pdf/airbnb-geovis-activities.pdf)
-- [Conditionals](pdf/Conditionals.pdf)
-- [Loops](pdf/Loops.pdf)
-- [Pandas](pdf/Pandas.pdf)
-- [Objects and Classes](pdf/ObjectsClasses.pdf) 
-
-
 
 ---
 
