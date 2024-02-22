@@ -9,9 +9,6 @@
 
 ---
 
-
----
-
 <h2 style="color:#727272;">Presentations Snippets and Links</h2>
 <a href="pdf/YG Group Project Car Fraud Detection.pdf" style="color: teal; font-size: 1.5em;">Car Insurance Fraud Detection (collaboration)</a>
 <br>
