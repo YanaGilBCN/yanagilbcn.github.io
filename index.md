@@ -3,7 +3,7 @@
 ---
 
 <h2 style="color:#727272;">Repositories</h2>
-<a href="cohort_analysis/cohort_analysis_retention_rate_YG.ipynb" style="color: teal; font-size: 1.5em;">Cohort Analysis: Customer Retention Rate</a>
+<a href="https://github.com/YanaGilBCN/cohort_analysis" style="color: teal; font-size: 1.5em;">Cohort Analysis: Customer Retention Rate</a>
 <br>
 <!--<img src="images/car_fraud_project.jpg?raw=true"/>-->
 
