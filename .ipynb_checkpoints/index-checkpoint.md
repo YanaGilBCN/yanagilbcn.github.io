@@ -4,6 +4,7 @@
 
 <h2 style="color:#727272;">Repositories</h2>
 <a href="https://github.com/YanaGilBCN/movie_rating" style="color: teal; font-size: 1.2em;">Movie Rating Analysis</a><br>
+<a href="https://github.com/YanaGilBCN/nursing_home_staffing" style="color: teal; font-size: 1.2em;">Nursing Home Contract Staff Analysis</a><br>
 <a href="https://github.com/YanaGilBCN/cohort_analysis" style="color: teal; font-size: 1.2em;">Cohort Analysis: Customer Retention Rate</a>
 <br>
 <img src="images/retention_rate.png?raw=true"/>
