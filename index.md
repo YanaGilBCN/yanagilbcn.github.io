@@ -5,7 +5,7 @@
 <h2 style="color:#727272;">Repositories</h2>
 <a href="https://github.com/YanaGilBCN/cohort_analysis" style="color: teal; font-size: 1.2em;">Cohort Analysis: Customer Retention Rate</a>
 <br>
-<img src="images/retetnion_rate.png?raw=true"/>
+<img src="images/retention_rate.png?raw=true"/>
 
 ---
 
